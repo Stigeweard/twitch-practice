@@ -25,5 +25,7 @@ $(function() {
         // the sdk is now loaded
     });
 
+    console.log('loool git');
+
 
 });
